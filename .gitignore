@@ -1,0 +1,5 @@
+*.depend
+*.layout
+*.orig
+battlehummer/bin/
+battlehummer/obj/
